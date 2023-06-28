@@ -9,3 +9,4 @@ Power your data analyst career by learning the core principles of data analysis 
 
 ## 🥇 Professional Certificate
 ![image](https://github.com/tienngm2049/IBM-Data-Analyst-Professional-Certificate/assets/131929681/84d227ac-e7ac-48df-82b3-f56c331fe363)
+Link to verify: https://www.coursera.org/account/accomplishments/professional-cert/NZD5VP36H2NN
