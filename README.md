@@ -2,48 +2,57 @@
 
 ## About this Professional Certificate
 
-The IBM Data Analyst Professional Certificate is a comprehensive program that empowers individuals with a diverse skill set essential for excelling in the realm of data analysis. This certificate encompasses a series of courses curated to cover various facets of data analysis, including data visualization, programming, database management, and more.
+This professional certificate encompasses a comprehensive journey in data analysis, equipping you with versatile competencies applicable across diverse facets of the field. Each course contributes to a well-rounded skill set that's invaluable in today's data-centric landscape. 
 
 ## 🥇 Professional Certificate
-![Professional Certificate](https://github.com/tienngm2049/IBM-Data-Analyst-Professional-Certificate/assets/131929681/84d227ac-e7ac-48df-82b3-f56c331fe363)
-Link to verify: [Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/NZD5VP36H2NN)
+![image](https://github.com/tienngm2049/IBM-Data-Analyst-Professional-Certificate/assets/131929681/84d227ac-e7ac-48df-82b3-f56c331fe363)
+Link to verify: [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/NZD5VP36H2NN)
 
-### Courses Included and Skills Acquired:
+### Courses Encompassed and Proficiencies Gained:
 
 **Introduction to Data Analytics**
-- Course 1
-- Gained foundational knowledge in data analytics, understanding its significance and key concepts.
+- Attained foundational knowledge in data analytics, comprehending its significance and fundamental principles.
+- [Course 1 Certificate](https://www.coursera.org/account/accomplishments/verify/7ZXJN26K6B36)
 
 **Excel Basics for Data Analysis**
-- Course 2
-- Developed proficiency in using Excel for data analysis, mastering techniques to organize and process data effectively.
+- Developed adeptness in utilizing Excel for data analysis, mastering techniques to efficiently organize and manipulate data.
+- [Course 2 Certificate](https://www.coursera.org/account/accomplishments/records/8KLTZ8W7YQ86)
 
 **Data Visualization and Dashboards with Excel and Cognos**
-- Course 3
-- Acquired skills in creating impactful data visualizations and dashboards using Excel and Cognos.
+- Cultivated skills in crafting impactful data visualizations and dynamic dashboards using Excel and Cognos.
+- [Course 3 Certificate](https://www.coursera.org/account/accomplishments/verify/H72QHPEZZ7ZT)
 
 **Python for Data Science, AI & Development**
-- Course 4
-- Attained proficiency in Python for data science, machine learning, and application development.
+- Established a robust groundwork in Python programming tailored for data science and AI.
+- Mastery of Python fundamentals, encompassing data types, expressions, variables, and data structures.
+- Applied Python programming logic for control flow, functions, object-oriented programming, and classes.
+- Demonstrated expertise in employing essential Python libraries such as Pandas, Numpy, and Beautiful Soup.
+- Proficiency in accessing web data through APIs and conducting web scraping in Python using Jupyter Notebooks.
+- [Course 4 Certificate](https://www.coursera.org/account/accomplishments/verify/LZFL8EL6PTWK)
 
 **Python Project for Data Science**
-- Course 5
-- Gained hands-on experience by completing Python-based data science projects.
+- Acquired hands-on experience by completing practical Python-based data science projects.
+- [Course 5 Certificate](https://www.coursera.org/account/accomplishments/records/HH8YT359PD5W)
 
 **Databases and SQL for Data Science with Python**
-- Course 6
-- Learned database management and SQL techniques for handling and querying data.
+- Acquired proficiency in database management and SQL techniques, including data handling, querying, and Python integration.
+- [Course 6 Certificate](https://www.coursera.org/account/accomplishments/verify/BW2YE52HR48H)
 
 **Data Analysis with Python**
-- Course 7
-- Developed expertise in using Python for data analysis, exploration, and manipulation.
+- Fostered adept Python coding skills for comprehensive data cleaning and preparation.
+- Conducted exploratory data analysis, applying analytical techniques to real-world datasets using Pandas, Numpy, and Scipy.
+- Expertise in data manipulation through dataframes, summarization, distribution understanding, correlation, and pipeline creation.
+- Constructed and assessed regression models employing the machine learning scikit-learn library, enabling prediction and decision-making.
+- [Course 7 Certificate](https://www.coursera.org/account/accomplishments/records/HMR6QKSBZFAK)
 
 **Data Visualization with Python**
-- Course 8
-- Mastered advanced data visualization techniques using Python libraries.
+- Executed advanced data visualization methodologies and charting using Python libraries like Matplotlib, Seaborn, and Folium.
+- Mastery of sophisticated data visualization techniques, encompassing waffle charts, word clouds, regression plots, and interactive maps.
+- Generated dynamic dashboards featuring a plethora of chart types including scatter, line, bar, bubble, pie, sunburst, and more, utilizing the Dash framework and Plotly library.
+- [Course 8 Certificate](https://www.coursera.org/account/accomplishments/verify/DWQFN3WHFXSJ)
 
 **IBM Data Analyst Capstone Project**
-- Course 9
-- Applied acquired skills to a real-world project, showcasing the ability to analyze and visualize data effectively.
+- Applied acquired proficiencies to a real-world project, showcasing effective data analysis and visualization skills.
+- [Course 9 Certificate](https://www.coursera.org/account/accomplishments/records/QHBZ9Z6TXKSL)
 
-This professional certificate provides a comprehensive learning journey in data analysis, equipping you with skills and knowledge applicable to various aspects of the field. Each course contributes to a well-rounded skill set that's valuable in today's data-driven world.
+Your journey through this professional certificate has equipped you with robust skills, enabling you to excel in the realm of data analysis and data-driven decision-making.
