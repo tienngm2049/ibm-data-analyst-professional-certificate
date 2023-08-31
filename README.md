@@ -1,5 +1,5 @@
 # IBM Data Analyst Professional
-![IBM Data Analyst Professional](https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png)
+![IBM Data Analyst Professional]
 
 ## About this Professional Certificate
 
