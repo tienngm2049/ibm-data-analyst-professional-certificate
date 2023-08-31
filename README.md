@@ -2,7 +2,7 @@
 
 ## About this Professional Certificate
 
-This professional certificate encompasses a comprehensive journey in data analysis, equipping you with versatile competencies applicable across diverse facets of the field. Each course contributes to a well-rounded skill set that's invaluable in today's data-centric landscape. 
+The IBM Data Analyst Professional Certificate is a comprehensive program that empowers individuals with a diverse skill set essential for excelling in the realm of data analysis. This certificate encompasses a series of courses curated to cover various facets of data analysis, including data visualization, programming, database management, and more.
 
 ## 🥇 Professional Certificate
 ![image](https://github.com/tienngm2049/IBM-Data-Analyst-Professional-Certificate/assets/131929681/84d227ac-e7ac-48df-82b3-f56c331fe363)
@@ -54,5 +54,3 @@ Link to verify: [Certificate](https://www.coursera.org/account/accomplishments/p
 **IBM Data Analyst Capstone Project**
 - Applied acquired proficiencies to a real-world project, showcasing effective data analysis and visualization skills.
 - [Course 9 Certificate](https://www.coursera.org/account/accomplishments/records/QHBZ9Z6TXKSL)
-
-Your journey through this professional certificate has equipped you with robust skills, enabling you to excel in the realm of data analysis and data-driven decision-making.
