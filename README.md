@@ -1,5 +1,4 @@
 # IBM Data Analyst Professional
-![IBM Data Analyst Professional]
 
 ## About this Professional Certificate
 
